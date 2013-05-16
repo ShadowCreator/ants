@@ -20,12 +20,12 @@ public class Game {
 		rows = 60,
 		cols = 60,
 		startingFood = 	10,
-		startingAnts = 4,
+		startingAnts = 5,
 		starvationLimit = 20,
-		ageLimit = 2000,
+		ageLimit = 1000,
 		colonyRange = 8,
 		
-		foodPerOffspring = 8;
+		foodPerOffspring = 5;
 	
 	public Tile[][] tiles;
 	
