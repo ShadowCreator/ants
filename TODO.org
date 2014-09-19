@@ -7,3 +7,6 @@
   : Make everything Java 8 compatiable
   : Remove directories that aren't needed
   : Comment all code
+
+* New ideas
+  : Add configurable parameters
