@@ -1,0 +1,9 @@
+* Better building
+  : What build tool?
+  : Allow all?
+  : Which works well with both Emacs and Idea?
+  
+* Clean up code and directories
+  : Make everything Java 8 compatiable
+  : Remove directories that aren't needed
+  : Comment all code
